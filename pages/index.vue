@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col items-center justify-center h-screen flex">
-        <h1 class="text-7xl font-bold uppercase">Opium</h1>
+        <h1 class="text-8xl font-bold uppercase">OpiuM *</h1>
     </div>
 </template>
 
@@ -8,4 +8,4 @@
     export default {
         
     }
-</script>
+</script> 
